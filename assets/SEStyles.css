@@ -1,0 +1,10 @@
+
+.not-yet{
+    background: #ffcb00;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.not-yet i {
+    font-size: 32px;
+}
